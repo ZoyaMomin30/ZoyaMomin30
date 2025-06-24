@@ -29,7 +29,7 @@ I’ll transform it into a full-blown dynamic website, pixel by pixel, logic by 
 `PostgreSQL` | `MongoDB` | `SQLAlchemy`
 
 **Developer Tools:**  
-`VS Code` | `GitHub` | `PyCharm` | `Postman` | `pgAdmin` | `Canvas`
+`VS Code` | `GitHub` | `PyCharm` | `Postman` | `pgAdmin` | `Canvas` | `Vercel` | `Render`
 
 ---
 
