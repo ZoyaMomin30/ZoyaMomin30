@@ -44,8 +44,6 @@ I’ll transform it into a full-blown dynamic website, pixel by pixel, logic by 
 **Developer Tools:**  
 `VS Code` | `GitHub` | `PyCharm` | `Postman` | `pgAdmin` | `Canvas` | `Vercel` | `Render`
  -->
----
-
 ## 🌱 Soft Skills
 
 - 🗣️ Clear communicator – whether it’s verbal, written, or technical documentation  
