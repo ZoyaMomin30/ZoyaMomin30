@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Zoya!
 
 ##### I'm a passionate **Full Stack Web Developer** who also thrives in the worlds of **Data Science** and **Machine Learning**. I bring ideas to life through clean, scalable code and intuitive interfaces.<br >
-🔭 Currently a Computer Engineering student in Final Year<br >
-🌱 I’m currently learning Data Science and Machine learning <br >
-⚡ Passionate Full Stack Developer<br >
-🚀 Eager to build projects and learn <br >
+
+#####🔭 Currently a Computer Engineering student in Final Year<br >
+#####🌱 I’m currently learning Data Science and Machine learning <br >
+#####⚡ Passionate Full Stack Developer<br >
+#####🚀 Eager to build projects and learn <br >
 ---
 
 💡 Got a spark of an idea?  
