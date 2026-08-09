@@ -6,6 +6,22 @@
 ##### ⚡ Passionate Full Stack Developer
 ##### 🚀 Eager to build projects and learn
 ---
+<div align="center">
+
+<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>avi@github ~ $ whoami</code></h3>
+<table>
+    <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+    </tr>
+</table>
+
+</div>
 
 💡 Got a spark of an idea?  
 I’ll design it, build it, and make it interactive.  
@@ -14,6 +30,8 @@ I’ll design it, build it, and make it interactive.
 I’ll transform it into a full-blown dynamic website, pixel by pixel, logic by logic.
 
 ✨ From sleek frontend experiences to robust backend systems — I enjoy writing efficient, maintainable code that bridges creativity with functionality.
+
+
 
 
 # 💻 Tech Stack:
